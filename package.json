@@ -1,0 +1,25 @@
+{
+  "name": "bit-loader-httpresource",
+  "version": "0.0.0",
+  "description": "bit-loader plugin for loading http resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelCastillo/bit-loader-httpresource.git"
+  },
+  "keywords": [
+    "bit-bundler"
+  ],
+  "author": "Miguel Castillo <manchagnu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguelCastillo/bit-loader-httpresource/issues"
+  },
+  "homepage": "https://github.com/MiguelCastillo/bit-loader-httpresource#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
