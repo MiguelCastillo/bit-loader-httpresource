@@ -2,7 +2,7 @@ var request = require("request");
 
 function httpResource(options) {
   function resolveName(meta) {
-    if (/https?:\/\//.test(meta.name)) {
+    if (/^https?:\/\//.test(meta.name)) {
       return {
         httpresource: "@httpresource",
         path: meta.name
