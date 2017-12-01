@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/MiguelCastillo/bit-loader-httpresource#readme",
   "dependencies": {
-    "request": "^2.79.0"
+    "request": "^2.83.0"
   }
 }
