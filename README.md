@@ -1,6 +1,7 @@
 # bit-loader-httpresource
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/MiguelCastillo/bit-loader-httpresource.svg)](https://greenkeeper.io/)
+
 bit-loader plugin for loading http resources. Meaning that any module dependencies that are http resources will be downloaded and treated like any other local dependency.
 
 # usage
