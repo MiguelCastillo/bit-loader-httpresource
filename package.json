@@ -1,10 +1,9 @@
 {
   "name": "bit-loader-httpresource",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "bit-loader plugin for loading http resources",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MiguelCastillo/bit-loader-httpresource.git"
