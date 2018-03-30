@@ -1,5 +1,5 @@
 {
-  "name": "bit-loader-httpresource",
+  "name": "@bit/loader-httpresource",
   "version": "1.0.2",
   "description": "bit-loader plugin for loading http resources",
   "main": "index.js",
