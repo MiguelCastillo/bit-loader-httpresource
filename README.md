@@ -9,15 +9,15 @@ bit-loader plugin for loading http resources. Meaning that any module dependenci
 ## install
 
 ```
-$ npm install --save-dev bit-loader-httpresource
+$ npm install --save-dev @bit/loader-httpresource
 ```
 
 ## bit-bundler
 
 ``` javascript
-var Bitbundler = require("bit-bundler");
-var jsPlugin = require("bit-loader-js");
-var httpResourcePlugin = require("bit-loader-httpresource");
+var Bitbundler = require("@bit/bundler");
+var jsPlugin = require("@bit/loader-js");
+var httpResourcePlugin = require("@bit/loader-httpresource");
 
 var bitbundler = new Bitbundler({
   loader: {
